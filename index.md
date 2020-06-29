@@ -14,3 +14,6 @@ Manchmal nehmen sie Gastmusiker mit.
 ## ein Zitat
 > we like island and
 > we like musik
+
+## ein Bild
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Of_Monsters_And_Men.jpg"/>
